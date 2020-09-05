@@ -1,0 +1,9 @@
+.main-image {
+  width: 150px;
+  height: 150px;
+}
+
+body {
+  background: linear-gradient(#ffafbd, transparent);
+  background-color: #ffc3a0;
+}
