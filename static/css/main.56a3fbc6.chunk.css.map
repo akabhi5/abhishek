@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,YACE,WAAY,CACZ,YACF,CAEA,KACE,+CAAiD,CACjD,wBACF","file":"main.56a3fbc6.chunk.css","sourcesContent":[".main-image {\r\n  width: 150px;\r\n  height: 150px;\r\n}\r\n\r\nbody {\r\n  background: linear-gradient(#ffafbd, transparent);\r\n  background-color: #ffc3a0;\r\n}\r\n"]}
